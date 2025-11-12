@@ -1,0 +1,5 @@
+# Arquivos de cache e temporários
+.cache/
+__replit_disk_meta.json
+update-notifier-npm.json
+update-notifier-npm.json.*
