@@ -27,7 +27,7 @@ Quero registrar aqui minha imensa gratidão à Programaria por criar um ambiente
 
 Você pode visualizar o projeto finalizado e hospedado diretamente no seu navegador através do link abaixo:
 
-**[Clique aqui para ver a página ao vivo]([https://pherys.github.io/front-end-primeira-pagina-web](https://front-end-primeira-pagina-web.vercel.app/)/)**
+[Clique aqui para ver a página ao vivo](https://front-end-primeira-pagina-web.vercel.app/)
 
 *(Nota: Este link presume que você ativou o GitHub Pages. Se não, vá em "Settings" > "Pages" no seu repositório e ative-o a partir do branch `main`)*
 
